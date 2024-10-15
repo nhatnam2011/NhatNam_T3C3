@@ -1,4 +1,4 @@
-## 🎉 Chào Mừng Đến Với Dự Án Siêu Cấp Vip Pro ! 🎉
+## 🎉 Chào Mừng Đến Với Dự Án Siêu Cấp Vip Pro 🎉
 
 Xin chào các bạn, tui là Nhật Nam và cảm ơn vì đã ghé thăm dự án này! 
 
