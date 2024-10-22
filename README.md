@@ -24,6 +24,13 @@ Giỏ Hàng Thông Minh: Thêm cà phê yêu thích vào giỏ hàng và thanh t
 Đánh Giá và Nhận Xét: Chia sẻ ý kiến của bạn về các loại cà phê mà bạn đã thử! 🌟
 
 
+
+## 👨‍💻 Tác Giả
+
+Facebook: https://www.facebook.com/profile.php?id=100010416571376
+Email: tranhatnamdhnnth@gmail.com
+
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100010416571376) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.instagram.com/_nhutnam2004/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@_beothichtaptav) 
 
