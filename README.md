@@ -29,17 +29,6 @@ Giỏ Hàng Thông Minh: Thêm cà phê yêu thích vào giỏ hàng và thanh t
 Đánh Giá và Nhận Xét: Chia sẻ ý kiến của bạn về các loại cà phê mà bạn đã thử! 🌟
 
 
-## 📋 Hướng Dẫn Sử Dụng
-
-Mở ứng dụng và đăng nhập hoặc tạo tài khoản.
-
-Duyệt qua danh sách các loại cà phê.
-
-Chọn loại cà phê mà bạn thích và nhấn "Thêm vào giỏ".
-
-Kiểm tra giỏ hàng và tiến hành thanh toán.
-
-
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100010416571376) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.instagram.com/_nhutnam2004/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@_beothichtaptav) 
 
