@@ -13,11 +13,6 @@ Xin chào các bạn, tui là Nhật Nam và cảm ơn vì đã ghé thăm dự 
   Từ việc chọn lựa hạt cà phê đến cách pha chế, tất cả đều đơn giản và thú vị. Hãy cùng nhau khám phá thế giới cà phê nhé! 🎉
 
 
-## 👨‍💻 Tác Giả
-
-https://www.facebook.com/profile.php?id=100010416571376
-
-
 ## 🎈 Tính Năng
 
 Lựa Chọn Cà Phê: Chọn từ hàng trăm loại cà phê khác nhau! ☕
